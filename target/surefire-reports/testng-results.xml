@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="14032" started-at="2021-09-07T23:30:41Z" finished-at="2021-09-07T23:30:55Z">
+  <suite name="All Test Suite" duration-ms="11150" started-at="2021-09-08T02:41:48Z" finished-at="2021-09-08T02:41:59Z">
     <groups>
     </groups>
-    <test name="C:/Users/SiddiqAb/OneDrive - Government of Ontario/Desktop/hybridframework" duration-ms="14032" started-at="2021-09-07T23:30:41Z" finished-at="2021-09-07T23:30:55Z">
+    <test name="C:/Users/SiddiqAb/OneDrive - Government of Ontario/Desktop/hybridframework" duration-ms="11150" started-at="2021-09-08T02:41:48Z" finished-at="2021-09-08T02:41:59Z">
       <class name="demosite.LoginSetUp">
-        <test-method status="PASS" signature="init()[pri:0, instance:demosite.LoginSetUp@7770f470]" name="init" is-config="true" duration-ms="6096" started-at="2021-09-07T19:30:41Z" finished-at="2021-09-07T19:30:47Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:demosite.LoginSetUp@2002fc1d]" name="init" is-config="true" duration-ms="6319" started-at="2021-09-07T22:41:48Z" finished-at="2021-09-07T22:41:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="loginToMercury(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demosite.LoginSetUp@7770f470]" name="loginToMercury" duration-ms="5256" started-at="2021-09-07T19:30:47Z" data-provider="getData" finished-at="2021-09-07T19:30:52Z">
+        <test-method status="PASS" signature="loginToMercury(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demosite.LoginSetUp@2002fc1d]" name="loginToMercury" duration-ms="3535" started-at="2021-09-07T22:41:54Z" data-provider="getData" finished-at="2021-09-07T22:41:58Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToMercury -->
-        <test-method status="PASS" signature="loginToMercury(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demosite.LoginSetUp@7770f470]" name="loginToMercury" duration-ms="1952" started-at="2021-09-07T19:30:52Z" data-provider="getData" finished-at="2021-09-07T19:30:54Z">
+        <test-method status="PASS" signature="loginToMercury(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demosite.LoginSetUp@2002fc1d]" name="loginToMercury" duration-ms="859" started-at="2021-09-07T22:41:58Z" data-provider="getData" finished-at="2021-09-07T22:41:59Z">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToMercury -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:demosite.LoginSetUp@7770f470]" name="tearDown" is-config="true" duration-ms="698" started-at="2021-09-07T19:30:54Z" finished-at="2021-09-07T19:30:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demosite.LoginSetUp@2002fc1d]" name="tearDown" is-config="true" duration-ms="309" started-at="2021-09-07T22:41:59Z" finished-at="2021-09-07T22:41:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
