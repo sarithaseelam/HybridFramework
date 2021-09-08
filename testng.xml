@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="demosite.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/SiddiqAb/OneDrive - Government of Ontario/Desktop/hybridframework">
+        <classes>
+            <class name="demosite.LoginSetUp">
+        </class>
+        </classes>
+    </test>
+</suite>
